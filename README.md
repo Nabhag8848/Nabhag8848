@@ -1,6 +1,6 @@
-### Hi there 👋
+###                                                         Hello, Hope you are doing Great!!👋
 
-[![Nabhag's github stats](https://github-readme-stats.vercel.app/api?username=Nabhag8848)](https://github.com/Nabhag8848/github-readme-stats)
+[![Nabhag's github stats](https://github-readme-stats.vercel.app/api?username=Nabhag8848)](https://github.com/Nabhag8848/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabhag8848&layout=compact)](https://github.com/Nabhag8848/github-readme-stats)
 <!--
 **Nabhag8848/Nabhag8848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
