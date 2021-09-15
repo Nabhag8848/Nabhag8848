@@ -1,4 +1,5 @@
-###                                                         Hello, Hope you are doing Great!!👋
+<div align = "center"><b>Hello, Hope you are doing Great!!👋 </div>
+ <br>
 
 [![Nabhag's github stats](https://github-readme-stats.vercel.app/api?username=Nabhag8848)](https://github.com/Nabhag8848/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabhag8848&layout=compact)](https://github.com/Nabhag8848/github-readme-stats)
 <!--
