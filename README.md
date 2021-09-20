@@ -1,9 +1,20 @@
 <h1 align="center">Hi 👋, I'm Nabhag Motivaras</h1>
+<h2 align="center">Currently Learning Front-end Development!</h2>
  <br>
+<h3 align = "left"> Connect with me: </h3>
+
+<p align="left">
+<a href = "www.linkedin.com/in/nabhag-motivaras-460b3b1aa"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/NabhagMotivaras"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+</p>
+
 <h3 align = "left"> Github Stat's: <h3>
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nabhag8848&show_icons=true&theme=tokyonight" />
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nabhag8848&theme=tokyonight" />
  <img width = "97%" src = "https://activity-graph.herokuapp.com/graph?username=Nabhag8848&theme=github" />
+ 
+ 
+ 
 
  <h3 align="left">Languages and Tools:</h3>
 <code><img height="45" width="45" src="https://cdn.freelogovectors.net/svg05/java-logo.svg"></code>
