@@ -11,7 +11,8 @@
 <h3 align = "left"> Github Stat's: <h3>
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nabhag8848&show_icons=true&theme=tokyonight" />
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nabhag8848&theme=tokyonight" />
- <img width = "97%" src = "https://activity-graph.herokuapp.com/graph?username=Nabhag8848&theme=github" />
+<!--  <img width = "97%" src = "https://activity-graph.herokuapp.com/graph?username=Nabhag8848&theme=github" /> -->
+ <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img width = "97%" alt="Nabhag's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nabhag8848&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
  
  
