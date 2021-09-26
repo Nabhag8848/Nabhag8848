@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nabhag Motivaras</h1>
+<h1 align="center">Hi 👋, I'm Nabhag</h1>
 <h2 align="center">Currently Learning Front-end Development!</h2>
  <br>
 <h3 align = "left"> Connect with me: </h3>
