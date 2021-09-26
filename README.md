@@ -7,6 +7,12 @@
 <a href = "www.linkedin.com/in/nabhag-motivaras-460b3b1aa"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/NabhagMotivaras"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
+<h2></h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F6DA5A&size=35&center=true&lines=Linux+is+Awesome!;Linux+Love)](https://git.io/typing-svg)
+
+![Loves Linux](https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png)
+
 
 <h3 align = "left"> Github Stat's: <h3>
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nabhag8848&show_icons=true&theme=tokyonight" />
