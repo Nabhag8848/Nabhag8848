@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F6DA5A&size=35&center=true&lines=Linux+is+Awesome!;Linux+Love)](https://git.io/typing-svg)
 
-![Loves Linux](https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png)
+<img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="Linux LOGO" width="50%" height = "50%"/>
 
 
 <h3 align = "left"> Github Stat's: <h3>
