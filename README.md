@@ -1,6 +1,3 @@
-<div align = "center">
-<img height = "20%" width = "30%" src = "Nabhag.png"/>
-</div>
 <h1 align="center">Hi 👋, I'm Nabhag</h1>
 <h2 align="center">Currently Learning Front-end Development!</h2>
  <br>
