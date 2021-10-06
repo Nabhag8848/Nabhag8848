@@ -19,8 +19,8 @@
 
 <h3>Github Stat's: <h3>
   
- <img src="https://github-readme-stats.vercel.app/api?username=Nabhag8848&show_icons=true&theme=tokyonight" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nabhag8848&theme=tokyonight" />
+ <img width = "48%" src="https://github-readme-stats.vercel.app/api?username=Nabhag8848&show_icons=true&theme=tokyonight" />
+ <img width = "48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nabhag8848&theme=tokyonight" />
  <br>
  <br>
  <h2></h2>
