@@ -6,6 +6,7 @@
 <p align="left">
 <a href = "www.linkedin.com/in/nabhag-motivaras-460b3b1aa"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/NabhagMotivaras"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://medium.com/@nabhagmotivaras76"><img height = "1%" width = "4.5%" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png"/></a>
 </p>
 <h2></h2>
 
