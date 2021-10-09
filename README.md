@@ -44,6 +44,6 @@
 <p align="left">
 <code><a href = "www.linkedin.com/in/nabhag-motivaras-460b3b1aa"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a></code>
 <code><a href = "https://twitter.com/NabhagMotivaras"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a></code>
-<code><a href = "https://medium.com/@nabhagmotivaras76"><img height = "1%" width = "4.5%" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png"/></a></code>
+<code><a href = "https://medium.com/@nabhagmotivaras76"><img width = "4.5%" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png"/></a></code>
 </p>
 
