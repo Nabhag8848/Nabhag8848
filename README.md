@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabhag</h1>
-<h2 align="center">Currently Learning Front-end Development!</h2>
+<h2 align="center">Currently Learning Back-end Development!</h2>
  <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F6DA5A&size=35&center=true&lines=Linux+is+Awesome!;Linux+Love)](https://git.io/typing-svg)
