@@ -23,12 +23,7 @@
  <img width = "48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nabhag8848&theme=tokyonight" />
  <br>
  <br>
- <h2></h2>
- 
- <img src = "https://activity-graph.herokuapp.com/graph?username=Nabhag8848&theme=redical" />
- 
- 
-<h2></h2>
+ <h2></h2> 
  <h3 align="left">Languages and Tools:</h3>
 <code><img height="45" width="45" src="https://cdn.freelogovectors.net/svg05/java-logo.svg"></code>
  <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png"></code>
