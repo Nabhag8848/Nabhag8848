@@ -9,7 +9,6 @@
 <p align = "center">
 - 🤔 Love to share my work in public.<br>
 - 🌱 I’m currently building my profile.<br>
-- 😄 Pronouns: Bruh will work anytime,LOL.<br>
 - ⚡ Fun fact: I Don't Wanna go to College.<br>
  - 👯 I Love to Collaborate and Meet New Peeps.<br>
  - 💬 Connect with me on Twitter would love to hear your views.<br>
