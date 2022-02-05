@@ -57,9 +57,11 @@
 
 - 📝 I write articles on [Medium](Medium)
 
-- 💬 Ask me about **Node**
+- 💬 Ask me about **Nodejs**
 
 - 📫 How to reach me **nabhagmotivaras76@gmail.com**
+
+<img align = "right" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="Linux LOGO" width="45%"/>
 
 - ⚡ Fun fact **I'm 5y/o kid with 19y/o Experience**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabhag8848&label=Profile%20views&color=0e75b6&style=flat" alt="nabhag8848" /> </p>
