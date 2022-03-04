@@ -63,7 +63,6 @@
 
 <img align = "right" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="Linux LOGO" width="45%"/>
 
-- ⚡ Fun fact **I'm 5y/o kid with 19y/o Experience**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabhag8848&label=Profile%20views&color=0e75b6&style=flat" alt="nabhag8848" /> </p>
 <p align="left"> <a href="https://twitter.com/nabhagmotivaras" target="blank"><img src="https://img.shields.io/twitter/follow/nabhagmotivaras?logo=twitter&style=for-the-badge" alt="nabhagmotivaras" /></a> </p>
 <h3 align="left">Connect with me:</h3>
