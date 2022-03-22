@@ -57,7 +57,7 @@
 
 - 📝 I write articles on [Medium](Medium)
 
-- 💬 Ask me about **Nodejs**
+- 💬 Ask me about **Backend Engineering**
 
 - 📫 How to reach me **nabhagmotivaras76@gmail.com**
 
