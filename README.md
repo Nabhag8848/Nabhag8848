@@ -43,9 +43,14 @@
 
  -->
  
+ <img src="Twitter header - 2.png"/>
  
  <h1 align="center">Hi 👋, I'm Nabhag</h1>
-<h3 align="center">Self-taught Backend developer from India</h3>
+<h3 align="center">Backend Software Engineer from India</h3>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nabhag8848&bg_color=000000&color=6ebc2f&line=781212&point=42a956&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img align="right" height = "50%" width= "30%" src="Coder.gif"/>
 
 - 🔭 I’m currently working on [tweetFeeds](https://github.com/Nabhag8848/tweetFeeds)
 
@@ -61,11 +66,23 @@
 
 - 📫 How to reach me **nabhagmotivaras76@gmail.com**
 
-<img align = "right" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="Linux LOGO" width="45%"/>
+
+<img align = "left" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="Linux LOGO" width="45%"/>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nabhag8848&theme=highcontrast&background=000000&ring=6ebc2f)](https://git.io/streak-stats)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nabhag8848?cardType=github&theme=dark&Title=DD272700&Background=000000&hide_border=false)](https://git.io/awesome-stats-card)
+
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabhag8848&label=Profile%20views&color=0e75b6&style=flat" alt="nabhag8848" /> </p>
+
 <p align="left"> <a href="https://twitter.com/nabhagmotivaras" target="blank"><img src="https://img.shields.io/twitter/follow/nabhagmotivaras?logo=twitter&style=for-the-badge" alt="nabhagmotivaras" /></a> </p>
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nabhagmotivaras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nabhagmotivaras" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nabhag-motivaras-460b3b1aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabhag motivaras" height="30" width="40" /></a>
@@ -84,8 +101,4 @@
 <h3 align="left">Databases:</h3>
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabhag8848&show_icons=true&locale=en&layout=compact" alt="nabhag8848" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabhag8848&show_icons=true&locale=en" alt="nabhag8848" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabhag8848&" alt="nabhag8848" /></p>
+ -->
