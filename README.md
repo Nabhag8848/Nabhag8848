@@ -52,7 +52,8 @@
 
 <img align="right" height = "50%" width= "30%" src="Coder.gif"/>
 
-- 🔭 I’m currently working on [tweetFeeds](https://github.com/Nabhag8848/tweetFeeds)
+<!---
+- 🔭 I’m currently working on [tweetFeeds](https://github.com/Nabhag8848/tweetFeeds) 
 
 - 🌱 I’m currently learning **Nodejs,Express,MongoDB**
 
@@ -66,7 +67,7 @@
 
 - 📫 How to reach me **nabhagmotivaras76@gmail.com**
 
-
+--->
 <img align = "left" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="Linux LOGO" width="45%"/>
 
 
