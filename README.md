@@ -5,7 +5,6 @@
 <img src="Twitter header - 2.png"/>
 <p align="left"> <a href="https://twitter.com/nabhagmotivaras" target="blank"><img src="https://img.shields.io/twitter/follow/nabhagmotivaras?logo=twitter&style=for-the-badge" alt="nabhagmotivaras" /></a> </p>
 <b>Coonect with me here: </b>
-[![Linkedin Badge](https://img.shields.io/badge/-kaiwalyakoparkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/kaiwalyakoparkar/)
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nabhag8848&bg_color=000000&color=6ebc2f&line=781212&point=42a956&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
