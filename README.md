@@ -4,8 +4,41 @@
 
 <img src="Twitter header - 2.png"/>
 <p align="left"> <a href="https://twitter.com/nabhagmotivaras" target="blank"><img src="https://img.shields.io/twitter/follow/nabhagmotivaras?logo=twitter&style=for-the-badge" alt="nabhagmotivaras" /></a> </p>
-<b>Coonect with me here: </b>
 
+<b>Connect with me here: </b>
+<br><br>
+<a href="https://twitter.com/NabhagMotivaras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kashishtwts" height="30" width="40" /></a>
+
+<b>Languages: </b>
+<br><br>
+![JavaScript](https://api.iconify.design/logos:javascript.svg?color=%23888888)
+![TypeScript](https://api.iconify.design/logos:typescript-icon.svg?color=%23888888)
+![Java](https://api.iconify.design/logos:java.svg?color=%23888888)
+![Python](https://api.iconify.design/logos:python.svg?color=%23888888)
+<br><br>
+
+<b>Frameworks & Technologies</b>
+<br><br>
+![NodeJS](https://api.iconify.design/logos:nodejs.svg?color=%23888888)
+![ExpressJS](https://api.iconify.design/logos:express.svg?color=%2326a269)
+![Prisma](https://api.iconify.design/logos:prisma.svg?color=%2326a269)
+![NestJS](https://api.iconify.design/logos:nestjs.svg?color=%2326a269)
+![Heroku](https://api.iconify.design/logos:heroku-icon.svg?color=%2326a269)
+![Angular](https://api.iconify.design/logos:angular-icon.svg?color=%2326a2690)
+<br><br>
+
+<b>Databases: </b>
+<br><br>
+![PostgreSQL](https://api.iconify.design/logos:postgresql.svg?color=%2326a269)
+![MySQL](https://api.iconify.design/logos:mysql.svg?color=%2326a269)
+![MongoDB](https://api.iconify.design/logos:mongodb-icon.svg?color=%2326a269)
+<br><br>
+
+<b>Tools: </b>
+<br><br>
+![Git](https://api.iconify.design/logos:git-icon.svg?color=%2326a269)
+![Docker](https://api.iconify.design/logos:docker-icon.svg?color=%2326a269)
+![Postman](https://api.iconify.design/logos:postman-icon.svg?color=%2326a269)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nabhag8848&bg_color=000000&color=6ebc2f&line=781212&point=42a956&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
