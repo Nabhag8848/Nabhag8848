@@ -10,15 +10,14 @@
 <a href="https://linkedin.com/in/nabhag-motivaras-460b3b1aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabhag-motivaras-460b3b1aa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/nabhag-motivaras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nabhag-motivaras" height="30" width="40" /></a>
 </p>
-<b>Languages: </b>
-<br><br>
+<br>
+
+<b>Languages: </b><br>
 ![JavaScript](https://api.iconify.design/logos:javascript.svg?color=%23888888)
 ![TypeScript](https://api.iconify.design/logos:typescript-icon.svg?color=%23888888)
 ![Java](https://api.iconify.design/logos:java.svg?color=%23888888)
 ![Python](https://api.iconify.design/logos:python.svg?color=%23888888)
-
 <br><br>
-
 <b>Frameworks & Technologies</b>
 <br><br>
 ![NodeJS](https://api.iconify.design/logos:nodejs.svg?color=%23888888)
@@ -28,10 +27,6 @@
 ![Heroku](https://api.iconify.design/logos:heroku-icon.svg?color=%2326a269)
 ![Angular](https://api.iconify.design/logos:angular-icon.svg?color=%2326a2690)
 <br><br>
-![JavaScript](https://api.iconify.design/logos:javascript.svg?color=%23888888)
-![TypeScript](https://api.iconify.design/logos:typescript-icon.svg?color=%23888888)
-![Java](https://api.iconify.design/logos:java.svg?color=%23888888)
-![Python](https://api.iconify.design/logos:python.svg?color=%23888888)
 <b>Databases: </b>
 <br><br>
 ![PostgreSQL](https://api.iconify.design/logos:postgresql.svg?color=%2326a269)
