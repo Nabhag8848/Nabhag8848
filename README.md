@@ -40,6 +40,7 @@
 
 <b>Tools: </b>
 <br><br>
+<a href="https://keepassxc.org/" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/KeePassXC.svg" alt="nabhag-motivaras-460b3b1aa" height="25" width="25" /></a>
 ![Git](https://api.iconify.design/logos:git-icon.svg?color=%2326a269)
 ![Docker](https://api.iconify.design/logos:docker-icon.svg?color=%2326a269)
 ![Postman](https://api.iconify.design/logos:postman-icon.svg?color=%2326a269)
