@@ -16,42 +16,44 @@
 </p>
 <br>
 
-<b>Languages: </b><br>
-![JavaScript](https://api.iconify.design/logos:javascript.svg?color=%23888888)
-![TypeScript](https://api.iconify.design/logos:typescript-icon.svg?color=%23888888)
-![Java](https://api.iconify.design/logos:java.svg?color=%23888888)
-![Python](https://api.iconify.design/logos:python.svg?color=%23888888)
-<br><br>
+<b>Languages: </b><br><br>
+</a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+
+<br>
+
 <b>Frameworks & Technologies</b>
 <br><br>
-![NodeJS](https://api.iconify.design/logos:nodejs.svg?color=%23888888)
-![ExpressJS](https://api.iconify.design/logos:express.svg?color=%2326a269)
-![Prisma](https://api.iconify.design/logos:prisma.svg?color=%2326a269)
-![NestJS](https://api.iconify.design/logos:nestjs.svg?color=%2326a269)
-![Heroku](https://api.iconify.design/logos:heroku-icon.svg?color=%2326a269)
-![Angular](https://api.iconify.design/logos:angular-icon.svg?color=%2326a2690)
-<br><br>
+</a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" alt="nestjs" width="40" height="40"/> </a>
+
+
 <b>Databases: </b>
 <br><br>
-![PostgreSQL](https://api.iconify.design/logos:postgresql.svg?color=%2326a269)
-![MySQL](https://api.iconify.design/logos:mysql.svg?color=%2326a269)
-![MongoDB](https://api.iconify.design/logos:mongodb-icon.svg?color=%2326a269)
-<br><br>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   
 
 <b>Tools: </b>
 <br><br>
-<a href="https://keepassxc.org/" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/KeePassXC.svg" alt="nabhag-motivaras-460b3b1aa" height="25" width="25" /></a>
-![Git](https://api.iconify.design/logos:git-icon.svg?color=%2326a269)
-![Docker](https://api.iconify.design/logos:docker-icon.svg?color=%2326a269)
-![Postman](https://api.iconify.design/logos:postman-icon.svg?color=%2326a269)
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+<a href="https://keepassxc.org/" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/KeePassXC.svg" alt="nabhag-motivaras-460b3b1aa" height="65" width="65"/>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>  
+
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nabhag8848&bg_color=000000&color=6ebc2f&line=781212&point=42a956&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img align="right" height = "50%" width= "30%" src="Coder.gif"/>
-
-
+<br><br>
 <img align = "left" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="Linux LOGO" width="45%"/>
-
+<br><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nabhag8848&theme=highcontrast&background=000000&ring=6ebc2f)](https://git.io/streak-stats)
 
