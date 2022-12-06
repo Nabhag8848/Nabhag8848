@@ -4,9 +4,6 @@
 
 <img src="Twitter header - 2.png"/>
 
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nabhag8848&bg_color=000000&color=6ebc2f&line=781212&point=42a956&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <h2>Connect with me here: </h2>
 <p align="left">
 <a href="https://twitter.com/nabhagmotivaras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nabhagmotivaras" height="45" /></a>
