@@ -12,5 +12,9 @@
 <br/> Hey Hey, Welcome! This is my first blog so if you don't know me, My name is Nabhag, From India, Currently in my prefinal year pursuing Bachelor's in Software Engineering. I like all stuff Backend Engineering. In my free time, you can find me on Stack... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
+### My Recent Contributions
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
