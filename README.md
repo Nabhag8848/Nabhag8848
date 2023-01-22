@@ -16,16 +16,16 @@
  ### My Recent Contributions
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1570](https://github.com/pinojs/pino/issues/1570) in [pinojs/pino](https://github.com/pinojs/pino)
-2. 🗣 Commented on [#42](https://github.com/RocketChat/RC4Conferences/issues/42) in [RocketChat/RC4Conferences](https://github.com/RocketChat/RC4Conferences)
-3. 🗣 Commented on [#185](https://github.com/RocketChat/RC4Community/issues/185) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
-4. 🗣 Commented on [#1570](https://github.com/pinojs/pino/issues/1570) in [pinojs/pino](https://github.com/pinojs/pino)
-5. 🗣 Commented on [#572](https://github.com/RocketChat/Rocket.Chat.Apps-engine/issues/572) in [RocketChat/Rocket.Chat.Apps-engine](https://github.com/RocketChat/Rocket.Chat.Apps-engine)
-6. 🗣 Commented on [#570](https://github.com/RocketChat/Rocket.Chat.Apps-engine/issues/570) in [RocketChat/Rocket.Chat.Apps-engine](https://github.com/RocketChat/Rocket.Chat.Apps-engine)
-7. ❗️ Opened issue [#570](https://github.com/RocketChat/Rocket.Chat.Apps-engine/issues/570) in [RocketChat/Rocket.Chat.Apps-engine](https://github.com/RocketChat/Rocket.Chat.Apps-engine)
-8. 🗣 Commented on [#41](https://github.com/RocketChat/Apps.Github22/issues/41) in [RocketChat/Apps.Github22](https://github.com/RocketChat/Apps.Github22)
-9. 🗣 Commented on [#41](https://github.com/RocketChat/Apps.Github22/issues/41) in [RocketChat/Apps.Github22](https://github.com/RocketChat/Apps.Github22)
-10. 💪 Opened PR [#41](https://github.com/RocketChat/Apps.Github22/pull/41) in [RocketChat/Apps.Github22](https://github.com/RocketChat/Apps.Github22)
+1. ❗️ Opened issue [#2](https://github.com/Nabhag8848/apps.ai.backend/issues/2) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
+2. ❗️ Opened issue [#1](https://github.com/Nabhag8848/apps.ai.backend/issues/1) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
+3. 🗣 Commented on [#1570](https://github.com/pinojs/pino/issues/1570) in [pinojs/pino](https://github.com/pinojs/pino)
+4. 🗣 Commented on [#42](https://github.com/RocketChat/RC4Conferences/issues/42) in [RocketChat/RC4Conferences](https://github.com/RocketChat/RC4Conferences)
+5. 🗣 Commented on [#185](https://github.com/RocketChat/RC4Community/issues/185) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
+6. 🗣 Commented on [#1570](https://github.com/pinojs/pino/issues/1570) in [pinojs/pino](https://github.com/pinojs/pino)
+7. 🗣 Commented on [#572](https://github.com/RocketChat/Rocket.Chat.Apps-engine/issues/572) in [RocketChat/Rocket.Chat.Apps-engine](https://github.com/RocketChat/Rocket.Chat.Apps-engine)
+8. 🗣 Commented on [#570](https://github.com/RocketChat/Rocket.Chat.Apps-engine/issues/570) in [RocketChat/Rocket.Chat.Apps-engine](https://github.com/RocketChat/Rocket.Chat.Apps-engine)
+9. ❗️ Opened issue [#570](https://github.com/RocketChat/Rocket.Chat.Apps-engine/issues/570) in [RocketChat/Rocket.Chat.Apps-engine](https://github.com/RocketChat/Rocket.Chat.Apps-engine)
+10. 🗣 Commented on [#41](https://github.com/RocketChat/Apps.Github22/issues/41) in [RocketChat/Apps.Github22](https://github.com/RocketChat/Apps.Github22)
 <!--END_SECTION:activity-->
  
  </p>
