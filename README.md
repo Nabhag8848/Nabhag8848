@@ -16,16 +16,16 @@
  ### My Recent Contributions
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/Nabhag8848/apps.ai.backend/issues/8) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
-2. ❗️ Opened issue [#5](https://github.com/Nabhag8848/apps.ai.backend/issues/5) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
-3. ❗️ Opened issue [#4](https://github.com/Nabhag8848/apps.ai.backend/issues/4) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
-4. ❗️ Opened issue [#3](https://github.com/Nabhag8848/apps.ai.backend/issues/3) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
-5. ❗️ Opened issue [#2](https://github.com/Nabhag8848/apps.ai.backend/issues/2) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
-6. ❗️ Opened issue [#1](https://github.com/Nabhag8848/apps.ai.backend/issues/1) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
-7. 🗣 Commented on [#1570](https://github.com/pinojs/pino/issues/1570) in [pinojs/pino](https://github.com/pinojs/pino)
-8. 🗣 Commented on [#42](https://github.com/RocketChat/RC4Conferences/issues/42) in [RocketChat/RC4Conferences](https://github.com/RocketChat/RC4Conferences)
-9. 🗣 Commented on [#185](https://github.com/RocketChat/RC4Community/issues/185) in [RocketChat/RC4Community](https://github.com/RocketChat/RC4Community)
-10. 🗣 Commented on [#1570](https://github.com/pinojs/pino/issues/1570) in [pinojs/pino](https://github.com/pinojs/pino)
+1. ❗️ Closed issue [#3](https://github.com/Nabhag8848/apps.ai.backend/issues/3) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
+2. 🎉 Merged PR [#7](https://github.com/Nabhag8848/apps.ai.backend/pull/7) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
+3. ❗️ Opened issue [#8](https://github.com/Nabhag8848/apps.ai.backend/issues/8) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
+4. ❗️ Opened issue [#5](https://github.com/Nabhag8848/apps.ai.backend/issues/5) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
+5. ❗️ Opened issue [#4](https://github.com/Nabhag8848/apps.ai.backend/issues/4) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
+6. ❗️ Opened issue [#3](https://github.com/Nabhag8848/apps.ai.backend/issues/3) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
+7. ❗️ Opened issue [#2](https://github.com/Nabhag8848/apps.ai.backend/issues/2) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
+8. ❗️ Opened issue [#1](https://github.com/Nabhag8848/apps.ai.backend/issues/1) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
+9. 🗣 Commented on [#1570](https://github.com/pinojs/pino/issues/1570) in [pinojs/pino](https://github.com/pinojs/pino)
+10. 🗣 Commented on [#42](https://github.com/RocketChat/RC4Conferences/issues/42) in [RocketChat/RC4Conferences](https://github.com/RocketChat/RC4Conferences)
 <!--END_SECTION:activity-->
  
  </p>
