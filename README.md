@@ -16,16 +16,16 @@
  ### My Recent Contributions
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/Nabhag8848/Apps.AI/issues/3) in [Nabhag8848/Apps.AI](https://github.com/Nabhag8848/Apps.AI)
-2. 🗣 Commented on [#37](https://github.com/RocketChat/Apps.Github22/issues/37) in [RocketChat/Apps.Github22](https://github.com/RocketChat/Apps.Github22)
-3. 🗣 Commented on [#1570](https://github.com/pinojs/pino/issues/1570) in [pinojs/pino](https://github.com/pinojs/pino)
-4. ❗️ Opened issue [#2](https://github.com/Nabhag8848/Apps.AI/issues/2) in [Nabhag8848/Apps.AI](https://github.com/Nabhag8848/Apps.AI)
-5. 🗣 Commented on [#9](https://github.com/RocketChat/Rocket.Chat.Demo.App/issues/9) in [RocketChat/Rocket.Chat.Demo.App](https://github.com/RocketChat/Rocket.Chat.Demo.App)
-6. ❗️ Opened issue [#9](https://github.com/RocketChat/Rocket.Chat.Demo.App/issues/9) in [RocketChat/Rocket.Chat.Demo.App](https://github.com/RocketChat/Rocket.Chat.Demo.App)
-7. ❗️ Opened issue [#1](https://github.com/Nabhag8848/Apps.AI/issues/1) in [Nabhag8848/Apps.AI](https://github.com/Nabhag8848/Apps.AI)
-8. ❗️ Opened issue [#17](https://github.com/Nabhag8848/apps.ai.backend/issues/17) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
-9. 🗣 Commented on [#37](https://github.com/RocketChat/Apps.Github22/issues/37) in [RocketChat/Apps.Github22](https://github.com/RocketChat/Apps.Github22)
-10. 🗣 Commented on [#47](https://github.com/RocketChat/Apps.Github22/issues/47) in [RocketChat/Apps.Github22](https://github.com/RocketChat/Apps.Github22)
+1. 💪 Opened PR [#18](https://github.com/Nabhag8848/apps.ai.backend/pull/18) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
+2. ❗️ Opened issue [#3](https://github.com/Nabhag8848/Apps.AI/issues/3) in [Nabhag8848/Apps.AI](https://github.com/Nabhag8848/Apps.AI)
+3. 🗣 Commented on [#37](https://github.com/RocketChat/Apps.Github22/issues/37) in [RocketChat/Apps.Github22](https://github.com/RocketChat/Apps.Github22)
+4. 🗣 Commented on [#1570](https://github.com/pinojs/pino/issues/1570) in [pinojs/pino](https://github.com/pinojs/pino)
+5. ❗️ Opened issue [#2](https://github.com/Nabhag8848/Apps.AI/issues/2) in [Nabhag8848/Apps.AI](https://github.com/Nabhag8848/Apps.AI)
+6. 🗣 Commented on [#9](https://github.com/RocketChat/Rocket.Chat.Demo.App/issues/9) in [RocketChat/Rocket.Chat.Demo.App](https://github.com/RocketChat/Rocket.Chat.Demo.App)
+7. ❗️ Opened issue [#9](https://github.com/RocketChat/Rocket.Chat.Demo.App/issues/9) in [RocketChat/Rocket.Chat.Demo.App](https://github.com/RocketChat/Rocket.Chat.Demo.App)
+8. ❗️ Opened issue [#1](https://github.com/Nabhag8848/Apps.AI/issues/1) in [Nabhag8848/Apps.AI](https://github.com/Nabhag8848/Apps.AI)
+9. ❗️ Opened issue [#17](https://github.com/Nabhag8848/apps.ai.backend/issues/17) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
+10. 🗣 Commented on [#37](https://github.com/RocketChat/Apps.Github22/issues/37) in [RocketChat/Apps.Github22](https://github.com/RocketChat/Apps.Github22)
 <!--END_SECTION:activity-->
  
  </p>
