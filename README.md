@@ -16,16 +16,16 @@
  ### My Recent Contributions
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/Nabhag8848/Nabhag8848/issues/4) in [Nabhag8848/Nabhag8848](https://github.com/Nabhag8848/Nabhag8848)
-2. 💪 Opened PR [#28339](https://github.com/RocketChat/Rocket.Chat/pull/28339) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-3. ❗️ Opened issue [#28338](https://github.com/RocketChat/Rocket.Chat/issues/28338) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-4. ❗️ Opened issue [#19](https://github.com/Nabhag8848/apps.ai.backend/issues/19) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
-5. ❗️ Opened issue [#28324](https://github.com/RocketChat/Rocket.Chat/issues/28324) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-6. ❗️ Closed issue [#28282](https://github.com/RocketChat/Rocket.Chat/issues/28282) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-7. 🗣 Commented on [#28282](https://github.com/RocketChat/Rocket.Chat/issues/28282) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-8. ❗️ Opened issue [#28282](https://github.com/RocketChat/Rocket.Chat/issues/28282) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-9. 💪 Opened PR [#10](https://github.com/RocketChat/Rocket.Chat.Demo.App/pull/10) in [RocketChat/Rocket.Chat.Demo.App](https://github.com/RocketChat/Rocket.Chat.Demo.App)
-10. 🗣 Commented on [#9](https://github.com/RocketChat/Rocket.Chat.Demo.App/issues/9) in [RocketChat/Rocket.Chat.Demo.App](https://github.com/RocketChat/Rocket.Chat.Demo.App)
+1. 🗣 Commented on [#28339](https://github.com/RocketChat/Rocket.Chat/issues/28339) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+2. ❗️ Opened issue [#4](https://github.com/Nabhag8848/Nabhag8848/issues/4) in [Nabhag8848/Nabhag8848](https://github.com/Nabhag8848/Nabhag8848)
+3. 💪 Opened PR [#28339](https://github.com/RocketChat/Rocket.Chat/pull/28339) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+4. ❗️ Opened issue [#28338](https://github.com/RocketChat/Rocket.Chat/issues/28338) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+5. ❗️ Opened issue [#19](https://github.com/Nabhag8848/apps.ai.backend/issues/19) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
+6. ❗️ Opened issue [#28324](https://github.com/RocketChat/Rocket.Chat/issues/28324) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+7. ❗️ Closed issue [#28282](https://github.com/RocketChat/Rocket.Chat/issues/28282) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+8. 🗣 Commented on [#28282](https://github.com/RocketChat/Rocket.Chat/issues/28282) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+9. ❗️ Opened issue [#28282](https://github.com/RocketChat/Rocket.Chat/issues/28282) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+10. 💪 Opened PR [#10](https://github.com/RocketChat/Rocket.Chat.Demo.App/pull/10) in [RocketChat/Rocket.Chat.Demo.App](https://github.com/RocketChat/Rocket.Chat.Demo.App)
 <!--END_SECTION:activity-->
  
  </p>
