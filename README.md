@@ -4,15 +4,20 @@
 
 <img src="Twitter header - 2.png"/>
 
+ <hr>
+ 
 ### My Latest Blog Posts 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://nabhagmotivaras.hashnode.dev//experience-2022" title="How People Around, Helped Me In My Bads!  | Thanks Giving"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/d1956810eb099b7959df44d932fa9fe4.jpeg" alt="How People Around, Helped Me In My Bads!  | Thanks Giving" width="250px" align="left" /></a>
 <a href="https://nabhagmotivaras.hashnode.dev//experience-2022" title="How People Around, Helped Me In My Bads!  | Thanks Giving"><strong>How People Around, Helped Me In My Bads!  | Thanks Giving</strong></a>
-<br/> Hey Hey, Welcome! This is my first blog so if you don't know me, My name is Nabhag, From India, Currently in my prefinal year pursuing Bachelor's in Software Engineering. I like all stuff Backend Engineering. In my free time, you can find me on Stack... </p> <br/> <br/>
-<!-- HASHNODE_BLOG:END -->
-<p align=left>
+<br/> Hey Hey, Welcome! This is my first blog so if you don't know me, My name is Nabhag, From India.
 
+ Currently in my prefinal year pursuing Bachelor's in Software Engineering. I like all stuff Backend Engineering. This is thanks giving blog who helped me in my bad days in early life with the approach of new year i'm much thankful to all of them. </p> <br/> <br/>
+<!-- HASHNODE_BLOG:END -->
+<p align=left> 
+ <hr>
+ 
  ### My Recent Contributions
 
 <!--START_SECTION:activity-->
@@ -29,5 +34,9 @@
 <!--END_SECTION:activity-->
  
  </p>
+ 
+  <br> <br>
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nabhag8848&bg_color=000000&color=ffffff&line=26a269&point=c01c28&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
