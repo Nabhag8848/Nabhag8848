@@ -21,16 +21,16 @@
  ### My Recent Contributions
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2/issues/12) in [Nabhag8848/RocketChat.Apps-OAuth2](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2)
-2. ❗️ Opened issue [#28473](https://github.com/RocketChat/Rocket.Chat/issues/28473) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-3. 💪 Opened PR [#11](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2/pull/11) in [Nabhag8848/RocketChat.Apps-OAuth2](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2)
-4. 🎉 Merged PR [#10](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2/pull/10) in [Nabhag8848/RocketChat.Apps-OAuth2](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2)
-5. 💪 Opened PR [#10](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2/pull/10) in [Nabhag8848/RocketChat.Apps-OAuth2](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2)
-6. ❗️ Opened issue [#9](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2/issues/9) in [Nabhag8848/RocketChat.Apps-OAuth2](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2)
-7. ❗️ Opened issue [#8](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2/issues/8) in [Nabhag8848/RocketChat.Apps-OAuth2](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2)
-8. 🎉 Merged PR [#7](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2/pull/7) in [Nabhag8848/RocketChat.Apps-OAuth2](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2)
-9. 💪 Opened PR [#7](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2/pull/7) in [Nabhag8848/RocketChat.Apps-OAuth2](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2)
-10. 💪 Opened PR [#6](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2/pull/6) in [Nabhag8848/RocketChat.Apps-OAuth2](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2)
+1. 🎉 Merged PR [#13](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2/pull/13) in [Nabhag8848/RocketChat.Apps-OAuth2](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2)
+2. 💪 Opened PR [#13](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2/pull/13) in [Nabhag8848/RocketChat.Apps-OAuth2](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2)
+3. ❗️ Opened issue [#12](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2/issues/12) in [Nabhag8848/RocketChat.Apps-OAuth2](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2)
+4. ❗️ Opened issue [#28473](https://github.com/RocketChat/Rocket.Chat/issues/28473) in [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+5. 💪 Opened PR [#11](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2/pull/11) in [Nabhag8848/RocketChat.Apps-OAuth2](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2)
+6. 🎉 Merged PR [#10](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2/pull/10) in [Nabhag8848/RocketChat.Apps-OAuth2](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2)
+7. 💪 Opened PR [#10](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2/pull/10) in [Nabhag8848/RocketChat.Apps-OAuth2](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2)
+8. ❗️ Opened issue [#9](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2/issues/9) in [Nabhag8848/RocketChat.Apps-OAuth2](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2)
+9. ❗️ Opened issue [#8](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2/issues/8) in [Nabhag8848/RocketChat.Apps-OAuth2](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2)
+10. 🎉 Merged PR [#7](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2/pull/7) in [Nabhag8848/RocketChat.Apps-OAuth2](https://github.com/Nabhag8848/RocketChat.Apps-OAuth2)
 <!--END_SECTION:activity-->
  
  </p>
