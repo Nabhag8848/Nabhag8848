@@ -21,16 +21,16 @@
  ### My Recent Contributions
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/Nabhag8848/Apps.AI/issues/5) in [Nabhag8848/Apps.AI](https://github.com/Nabhag8848/Apps.AI)
-2. 💪 Opened PR [#15](https://github.com/cubik-so/cubik/pull/15) in [cubik-so/cubik](https://github.com/cubik-so/cubik)
-3. ❗️ Opened issue [#5](https://github.com/Nabhag8848/Nabhag8848/issues/5) in [Nabhag8848/Nabhag8848](https://github.com/Nabhag8848/Nabhag8848)
-4. 🗣 Commented on [#55](https://github.com/RocketChat/Apps.Github22/issues/55) in [RocketChat/Apps.Github22](https://github.com/RocketChat/Apps.Github22)
-5. ❗️ Opened issue [#101](https://github.com/RocketChat/Apps.Github22/issues/101) in [RocketChat/Apps.Github22](https://github.com/RocketChat/Apps.Github22)
-6. 💪 Opened PR [#100](https://github.com/RocketChat/Apps.Github22/pull/100) in [RocketChat/Apps.Github22](https://github.com/RocketChat/Apps.Github22)
-7. ❗️ Opened issue [#20](https://github.com/Nabhag8848/apps.ai.backend/issues/20) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
-8. ❗️ Opened issue [#1](https://github.com/yagnikposhiya/Deep-Learning/issues/1) in [yagnikposhiya/Deep-Learning](https://github.com/yagnikposhiya/Deep-Learning)
-9. 🗣 Commented on [#84](https://github.com/RocketChat/Apps.Github22/issues/84) in [RocketChat/Apps.Github22](https://github.com/RocketChat/Apps.Github22)
-10. ❗️ Opened issue [#3](https://github.com/Nabhag8848/Apps.Notion/issues/3) in [Nabhag8848/Apps.Notion](https://github.com/Nabhag8848/Apps.Notion)
+1. 💪 Opened PR [#19](https://github.com/cubik-so/cubik/pull/19) in [cubik-so/cubik](https://github.com/cubik-so/cubik)
+2. ❗️ Opened issue [#5](https://github.com/Nabhag8848/Apps.AI/issues/5) in [Nabhag8848/Apps.AI](https://github.com/Nabhag8848/Apps.AI)
+3. 💪 Opened PR [#15](https://github.com/cubik-so/cubik/pull/15) in [cubik-so/cubik](https://github.com/cubik-so/cubik)
+4. ❗️ Opened issue [#5](https://github.com/Nabhag8848/Nabhag8848/issues/5) in [Nabhag8848/Nabhag8848](https://github.com/Nabhag8848/Nabhag8848)
+5. 🗣 Commented on [#55](https://github.com/RocketChat/Apps.Github22/issues/55) in [RocketChat/Apps.Github22](https://github.com/RocketChat/Apps.Github22)
+6. ❗️ Opened issue [#101](https://github.com/RocketChat/Apps.Github22/issues/101) in [RocketChat/Apps.Github22](https://github.com/RocketChat/Apps.Github22)
+7. 💪 Opened PR [#100](https://github.com/RocketChat/Apps.Github22/pull/100) in [RocketChat/Apps.Github22](https://github.com/RocketChat/Apps.Github22)
+8. ❗️ Opened issue [#20](https://github.com/Nabhag8848/apps.ai.backend/issues/20) in [Nabhag8848/apps.ai.backend](https://github.com/Nabhag8848/apps.ai.backend)
+9. ❗️ Opened issue [#1](https://github.com/yagnikposhiya/Deep-Learning/issues/1) in [yagnikposhiya/Deep-Learning](https://github.com/yagnikposhiya/Deep-Learning)
+10. 🗣 Commented on [#84](https://github.com/RocketChat/Apps.Github22/issues/84) in [RocketChat/Apps.Github22](https://github.com/RocketChat/Apps.Github22)
 <!--END_SECTION:activity-->
  
  </p>
