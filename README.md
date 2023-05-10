@@ -1,5 +1,5 @@
  
-<h1 align="center">Hi 👋, I'm Nabhag</h1>
+<h1 align="center">Nabhag Motivaras</h1>
 <h3 align="center">Backend Software Engineer from India</h3>
 
 <img src="Twitter header - 2.png"/>
