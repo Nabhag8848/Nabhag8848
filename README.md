@@ -21,16 +21,16 @@
  ### My Recent Contributions
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/Nabhag8848/NeighborhoodHacks/issues/6) in [Nabhag8848/NeighborhoodHacks](https://github.com/Nabhag8848/NeighborhoodHacks)
-2. 🎉 Merged PR [#7](https://github.com/Nabhag8848/NeighborhoodHacks/pull/7) in [Nabhag8848/NeighborhoodHacks](https://github.com/Nabhag8848/NeighborhoodHacks)
-3. 💪 Opened PR [#7](https://github.com/Nabhag8848/NeighborhoodHacks/pull/7) in [Nabhag8848/NeighborhoodHacks](https://github.com/Nabhag8848/NeighborhoodHacks)
-4. ❗️ Opened issue [#6](https://github.com/Nabhag8848/NeighborhoodHacks/issues/6) in [Nabhag8848/NeighborhoodHacks](https://github.com/Nabhag8848/NeighborhoodHacks)
-5. ❗️ Closed issue [#5](https://github.com/Nabhag8848/NeighborhoodHacks/issues/5) in [Nabhag8848/NeighborhoodHacks](https://github.com/Nabhag8848/NeighborhoodHacks)
-6. 🎉 Merged PR [#4](https://github.com/Nabhag8848/NeighborhoodHacks/pull/4) in [Nabhag8848/NeighborhoodHacks](https://github.com/Nabhag8848/NeighborhoodHacks)
-7. ❗️ Opened issue [#5](https://github.com/Nabhag8848/NeighborhoodHacks/issues/5) in [Nabhag8848/NeighborhoodHacks](https://github.com/Nabhag8848/NeighborhoodHacks)
-8. 💪 Opened PR [#4](https://github.com/Nabhag8848/NeighborhoodHacks/pull/4) in [Nabhag8848/NeighborhoodHacks](https://github.com/Nabhag8848/NeighborhoodHacks)
-9. 🎉 Merged PR [#1](https://github.com/Nabhag8848/NeighborhoodHacks/pull/1) in [Nabhag8848/NeighborhoodHacks](https://github.com/Nabhag8848/NeighborhoodHacks)
-10. ❗️ Opened issue [#2](https://github.com/Nabhag8848/NeighborhoodHacks/issues/2) in [Nabhag8848/NeighborhoodHacks](https://github.com/Nabhag8848/NeighborhoodHacks)
+1. ❗️ Closed issue [#2](https://github.com/Nabhag8848/TrimTime/issues/2) in [Nabhag8848/TrimTime](https://github.com/Nabhag8848/TrimTime)
+2. ❗️ Closed issue [#6](https://github.com/Nabhag8848/NeighborhoodHacks/issues/6) in [Nabhag8848/NeighborhoodHacks](https://github.com/Nabhag8848/NeighborhoodHacks)
+3. 🎉 Merged PR [#7](https://github.com/Nabhag8848/NeighborhoodHacks/pull/7) in [Nabhag8848/NeighborhoodHacks](https://github.com/Nabhag8848/NeighborhoodHacks)
+4. 💪 Opened PR [#7](https://github.com/Nabhag8848/NeighborhoodHacks/pull/7) in [Nabhag8848/NeighborhoodHacks](https://github.com/Nabhag8848/NeighborhoodHacks)
+5. ❗️ Opened issue [#6](https://github.com/Nabhag8848/NeighborhoodHacks/issues/6) in [Nabhag8848/NeighborhoodHacks](https://github.com/Nabhag8848/NeighborhoodHacks)
+6. ❗️ Closed issue [#5](https://github.com/Nabhag8848/NeighborhoodHacks/issues/5) in [Nabhag8848/NeighborhoodHacks](https://github.com/Nabhag8848/NeighborhoodHacks)
+7. 🎉 Merged PR [#4](https://github.com/Nabhag8848/NeighborhoodHacks/pull/4) in [Nabhag8848/NeighborhoodHacks](https://github.com/Nabhag8848/NeighborhoodHacks)
+8. ❗️ Opened issue [#5](https://github.com/Nabhag8848/NeighborhoodHacks/issues/5) in [Nabhag8848/NeighborhoodHacks](https://github.com/Nabhag8848/NeighborhoodHacks)
+9. 💪 Opened PR [#4](https://github.com/Nabhag8848/NeighborhoodHacks/pull/4) in [Nabhag8848/NeighborhoodHacks](https://github.com/Nabhag8848/NeighborhoodHacks)
+10. 🎉 Merged PR [#1](https://github.com/Nabhag8848/NeighborhoodHacks/pull/1) in [Nabhag8848/NeighborhoodHacks](https://github.com/Nabhag8848/NeighborhoodHacks)
 <!--END_SECTION:activity-->
  
  </p>
