@@ -23,7 +23,7 @@
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#20](https://github.com/RocketChat/Apps.Notion/pull/20) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
 2. 🔒 Closed issue [#648](https://github.com/RocketChat/Rocket.Chat.Apps-engine/issues/648) in [RocketChat/Rocket.Chat.Apps-engine](https://github.com/RocketChat/Rocket.Chat.Apps-engine)
-3. 🗣 Commented on [#648](https://github.com/RocketChat/Rocket.Chat.Apps-engine/issues/648) in [RocketChat/Rocket.Chat.Apps-engine](https://github.com/RocketChat/Rocket.Chat.Apps-engine)
+3. 🗣 Commented on [#648](https://github.com/RocketChat/Rocket.Chat.Apps-engine/issues/648#issuecomment-1632178567) in [RocketChat/Rocket.Chat.Apps-engine](https://github.com/RocketChat/Rocket.Chat.Apps-engine)
 4. ❗ Opened issue [#648](https://github.com/RocketChat/Rocket.Chat.Apps-engine/issues/648) in [RocketChat/Rocket.Chat.Apps-engine](https://github.com/RocketChat/Rocket.Chat.Apps-engine)
 5. 💪 Opened PR [#19](https://github.com/RocketChat/Apps.Notion/pull/19) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
 6. 💪 Opened PR [#18](https://github.com/RocketChat/Apps.Notion/pull/18) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
