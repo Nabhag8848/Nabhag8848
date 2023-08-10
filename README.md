@@ -21,16 +21,16 @@
  ### My Recent Contributions
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/RocketChat/Apps.Notion/pull/26) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
-2. ❗ Opened issue [#25](https://github.com/RocketChat/Apps.Notion/issues/25) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
-3. 🗣 Commented on [#18](https://github.com/RocketChat/Apps.Notion/pull/18#issuecomment-1666550797) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
-4. 💪 Opened PR [#24](https://github.com/RocketChat/Apps.Notion/pull/24) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
-5. ❗ Opened issue [#23](https://github.com/RocketChat/Apps.Notion/issues/23) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
-6. 💪 Opened PR [#22](https://github.com/RocketChat/Apps.Notion/pull/22) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
-7. 💪 Opened PR [#21](https://github.com/RocketChat/Apps.Notion/pull/21) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
-8. 💪 Opened PR [#20](https://github.com/RocketChat/Apps.Notion/pull/20) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
-9. 🔒 Closed issue [#648](https://github.com/RocketChat/Rocket.Chat.Apps-engine/issues/648) in [RocketChat/Rocket.Chat.Apps-engine](https://github.com/RocketChat/Rocket.Chat.Apps-engine)
-10. 🗣 Commented on [#648](https://github.com/RocketChat/Rocket.Chat.Apps-engine/issues/648#issuecomment-1632178567) in [RocketChat/Rocket.Chat.Apps-engine](https://github.com/RocketChat/Rocket.Chat.Apps-engine)
+1. 💪 Opened PR [#28](https://github.com/RocketChat/Apps.Notion/pull/28) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
+2. ❗ Opened issue [#27](https://github.com/RocketChat/Apps.Notion/issues/27) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
+3. 💪 Opened PR [#26](https://github.com/RocketChat/Apps.Notion/pull/26) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
+4. ❗ Opened issue [#25](https://github.com/RocketChat/Apps.Notion/issues/25) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
+5. 🗣 Commented on [#18](https://github.com/RocketChat/Apps.Notion/pull/18#issuecomment-1666550797) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
+6. 💪 Opened PR [#24](https://github.com/RocketChat/Apps.Notion/pull/24) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
+7. ❗ Opened issue [#23](https://github.com/RocketChat/Apps.Notion/issues/23) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
+8. 💪 Opened PR [#22](https://github.com/RocketChat/Apps.Notion/pull/22) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
+9. 💪 Opened PR [#21](https://github.com/RocketChat/Apps.Notion/pull/21) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
+10. 💪 Opened PR [#20](https://github.com/RocketChat/Apps.Notion/pull/20) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
 <!--END_SECTION:activity-->
  
  </p>
