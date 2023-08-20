@@ -9,6 +9,10 @@
 ### My Latest Blog Posts 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://nabhagmotivaras.hashnode.dev//oss-journey" title="From Leaving Competitive Programming to GSoC"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692441217448/05839bd5-57e0-4e03-8e82-58bc5497d229.jpeg" alt="From Leaving Competitive Programming to GSoC" width="250px" align="left" /></a>
+<a href="https://nabhagmotivaras.hashnode.dev//oss-journey" title="From Leaving Competitive Programming to GSoC"><strong>From Leaving Competitive Programming to GSoC</strong></a>
+<br/> I'm Nabhag, a final-year Computer Engineering student from India, driven by a deep passion for Engineering. Beyond my academics, I'm devoted to crafting Plugins and Integrations that seamlessly connect various products, resulting in substantial impac... </p> <br/> <br/>
+<p align="left">
 <a href="https://nabhagmotivaras.hashnode.dev//experience-2022" title="How People Around, Helped Me In My Bads!  | Thanks Giving"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/d1956810eb099b7959df44d932fa9fe4.jpeg" alt="How People Around, Helped Me In My Bads!  | Thanks Giving" width="250px" align="left" /></a>
 <a href="https://nabhagmotivaras.hashnode.dev//experience-2022" title="How People Around, Helped Me In My Bads!  | Thanks Giving"><strong>How People Around, Helped Me In My Bads!  | Thanks Giving</strong></a>
 <br/> Hey Hey, Welcome! This is my first blog so if you don't know me, My name is Nabhag, From India, Currently in my prefinal year pursuing Bachelor's in Software Engineering. I like all stuff Backend Engineering. In my free time, you can find me on Stack... </p> <br/> <br/>
