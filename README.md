@@ -2,8 +2,7 @@
 <h1 align="center">Nabhag Motivaras</h1>
 <h3 align="center">Backend Software Engineer from India</h3>
 
-<img src="Twitter header - 2.png"/>
-
+<img src="https://github.com/Nabhag8848/Nabhag8848/assets/65061890/ee6a5851-3c37-4cdd-b549-8b6152a36dd4"/>
  <hr>
  
 ### My Latest Blog Posts 
