@@ -24,16 +24,16 @@
  ### My Recent Contributions
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/RocketChat/Apps.Notion/pull/31) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
-2. 🔒 Closed issue [#4](https://github.com/Nabhag8848/Nabhag8848/issues/4) in [Nabhag8848/Nabhag8848](https://github.com/Nabhag8848/Nabhag8848)
-3. 🔒 Closed issue [#5](https://github.com/Nabhag8848/Nabhag8848/issues/5) in [Nabhag8848/Nabhag8848](https://github.com/Nabhag8848/Nabhag8848)
-4. 🔒 Closed issue [#6](https://github.com/Nabhag8848/Nabhag8848/issues/6) in [Nabhag8848/Nabhag8848](https://github.com/Nabhag8848/Nabhag8848)
-5. 🔒 Closed issue [#7](https://github.com/Nabhag8848/Nabhag8848/issues/7) in [Nabhag8848/Nabhag8848](https://github.com/Nabhag8848/Nabhag8848)
-6. 💪 Opened PR [#30](https://github.com/RocketChat/Apps.Notion/pull/30) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
-7. ❗ Opened issue [#29](https://github.com/RocketChat/Apps.Notion/issues/29) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
-8. 💪 Opened PR [#28](https://github.com/RocketChat/Apps.Notion/pull/28) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
-9. ❗ Opened issue [#27](https://github.com/RocketChat/Apps.Notion/issues/27) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
-10. 💪 Opened PR [#26](https://github.com/RocketChat/Apps.Notion/pull/26) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
+1. 🗣 Commented on [#11277](https://github.com/calcom/cal.com/issues/11277#issuecomment-1719421999) in [calcom/cal.com](https://github.com/calcom/cal.com)
+2. 💪 Opened PR [#31](https://github.com/RocketChat/Apps.Notion/pull/31) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
+3. 🔒 Closed issue [#4](https://github.com/Nabhag8848/Nabhag8848/issues/4) in [Nabhag8848/Nabhag8848](https://github.com/Nabhag8848/Nabhag8848)
+4. 🔒 Closed issue [#5](https://github.com/Nabhag8848/Nabhag8848/issues/5) in [Nabhag8848/Nabhag8848](https://github.com/Nabhag8848/Nabhag8848)
+5. 🔒 Closed issue [#6](https://github.com/Nabhag8848/Nabhag8848/issues/6) in [Nabhag8848/Nabhag8848](https://github.com/Nabhag8848/Nabhag8848)
+6. 🔒 Closed issue [#7](https://github.com/Nabhag8848/Nabhag8848/issues/7) in [Nabhag8848/Nabhag8848](https://github.com/Nabhag8848/Nabhag8848)
+7. 💪 Opened PR [#30](https://github.com/RocketChat/Apps.Notion/pull/30) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
+8. ❗ Opened issue [#29](https://github.com/RocketChat/Apps.Notion/issues/29) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
+9. 💪 Opened PR [#28](https://github.com/RocketChat/Apps.Notion/pull/28) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
+10. ❗ Opened issue [#27](https://github.com/RocketChat/Apps.Notion/issues/27) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
 <!--END_SECTION:activity-->
  
  </p>
