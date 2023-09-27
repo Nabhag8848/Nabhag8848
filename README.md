@@ -24,16 +24,16 @@
  ### My Recent Contributions
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#465](https://github.com/oramasearch/orama/issues/465#issuecomment-1726037615) in [oramasearch/orama](https://github.com/oramasearch/orama)
-2. 🗣 Commented on [#2204](https://github.com/makeplane/plane/issues/2204#issuecomment-1725461948) in [makeplane/plane](https://github.com/makeplane/plane)
-3. 🗣 Commented on [#11277](https://github.com/calcom/cal.com/issues/11277#issuecomment-1719423965) in [calcom/cal.com](https://github.com/calcom/cal.com)
-4. 🗣 Commented on [#11277](https://github.com/calcom/cal.com/issues/11277#issuecomment-1719421999) in [calcom/cal.com](https://github.com/calcom/cal.com)
-5. 💪 Opened PR [#31](https://github.com/RocketChat/Apps.Notion/pull/31) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
-6. 🔒 Closed issue [#4](https://github.com/Nabhag8848/Nabhag8848/issues/4) in [Nabhag8848/Nabhag8848](https://github.com/Nabhag8848/Nabhag8848)
-7. 🔒 Closed issue [#5](https://github.com/Nabhag8848/Nabhag8848/issues/5) in [Nabhag8848/Nabhag8848](https://github.com/Nabhag8848/Nabhag8848)
-8. 🔒 Closed issue [#6](https://github.com/Nabhag8848/Nabhag8848/issues/6) in [Nabhag8848/Nabhag8848](https://github.com/Nabhag8848/Nabhag8848)
-9. 🔒 Closed issue [#7](https://github.com/Nabhag8848/Nabhag8848/issues/7) in [Nabhag8848/Nabhag8848](https://github.com/Nabhag8848/Nabhag8848)
-10. 💪 Opened PR [#30](https://github.com/RocketChat/Apps.Notion/pull/30) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
+1. 🗣 Commented on [#261](https://github.com/revertinc/revert/issues/261#issuecomment-1736886066) in [revertinc/revert](https://github.com/revertinc/revert)
+2. 🗣 Commented on [#465](https://github.com/oramasearch/orama/issues/465#issuecomment-1726037615) in [oramasearch/orama](https://github.com/oramasearch/orama)
+3. 🗣 Commented on [#2204](https://github.com/makeplane/plane/issues/2204#issuecomment-1725461948) in [makeplane/plane](https://github.com/makeplane/plane)
+4. 🗣 Commented on [#11277](https://github.com/calcom/cal.com/issues/11277#issuecomment-1719423965) in [calcom/cal.com](https://github.com/calcom/cal.com)
+5. 🗣 Commented on [#11277](https://github.com/calcom/cal.com/issues/11277#issuecomment-1719421999) in [calcom/cal.com](https://github.com/calcom/cal.com)
+6. 💪 Opened PR [#31](https://github.com/RocketChat/Apps.Notion/pull/31) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
+7. 🔒 Closed issue [#4](https://github.com/Nabhag8848/Nabhag8848/issues/4) in [Nabhag8848/Nabhag8848](https://github.com/Nabhag8848/Nabhag8848)
+8. 🔒 Closed issue [#5](https://github.com/Nabhag8848/Nabhag8848/issues/5) in [Nabhag8848/Nabhag8848](https://github.com/Nabhag8848/Nabhag8848)
+9. 🔒 Closed issue [#6](https://github.com/Nabhag8848/Nabhag8848/issues/6) in [Nabhag8848/Nabhag8848](https://github.com/Nabhag8848/Nabhag8848)
+10. 🔒 Closed issue [#7](https://github.com/Nabhag8848/Nabhag8848/issues/7) in [Nabhag8848/Nabhag8848](https://github.com/Nabhag8848/Nabhag8848)
 <!--END_SECTION:activity-->
  
  </p>
