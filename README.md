@@ -19,7 +19,7 @@
 <p align=left> 
  <hr>
  
-   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nabhag8848&bg_color=000000&color=ffffff&line=26a269&point=c01c28&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nabhag8848&bg_color=000000&color=ecace7&line=55d385&point=ce4040&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  ### My Recent Contributions
 
