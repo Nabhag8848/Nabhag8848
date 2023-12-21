@@ -1,6 +1,6 @@
  
-<h1 align="center">Nabhag Motivaras</h1>
-<h3 align="center"> Engineer from India</h3>
+<h1 align="center">OpenSourcerer</h1>
+<h3 align="center"> Currently Cooking Something for OpenStatus</h3>
 
 <img src="https://github.com/Nabhag8848/Nabhag8848/assets/65061890/ee6a5851-3c37-4cdd-b549-8b6152a36dd4"/>
  <hr>
