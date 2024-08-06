@@ -6,16 +6,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#493](https://github.com/revertinc/revert/pull/493#issuecomment-2270420921) in [revertinc/revert](https://github.com/revertinc/revert)
-2. ❌ Closed PR [#493](https://github.com/revertinc/revert/pull/493) in [revertinc/revert](https://github.com/revertinc/revert)
-3. ❌ Closed PR [#490](https://github.com/revertinc/revert/pull/490) in [revertinc/revert](https://github.com/revertinc/revert)
-4. 🗣 Commented on [#490](https://github.com/revertinc/revert/pull/490#issuecomment-2270419064) in [revertinc/revert](https://github.com/revertinc/revert)
-5. ❌ Closed PR [#463](https://github.com/revertinc/revert/pull/463) in [revertinc/revert](https://github.com/revertinc/revert)
-6. 🗣 Commented on [#6437](https://github.com/twentyhq/twenty/issues/6437#issuecomment-2269322589) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
-7. 🗣 Commented on [#6546](https://github.com/twentyhq/twenty/issues/6546#issuecomment-2269309960) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
-8. ❗ Opened issue [#6546](https://github.com/twentyhq/twenty/issues/6546) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
-9. 🗣 Commented on [#6437](https://github.com/twentyhq/twenty/issues/6437#issuecomment-2269247073) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
-10. 🗣 Commented on [#6523](https://github.com/twentyhq/twenty/issues/6523#issuecomment-2269139632) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
+1. 🗣 Commented on [#589](https://github.com/revertinc/revert/pull/589#issuecomment-2270465067) in [revertinc/revert](https://github.com/revertinc/revert)
+2. 🎉 Merged PR [#588](https://github.com/revertinc/revert/pull/588) in [revertinc/revert](https://github.com/revertinc/revert)
+3. 🎉 Merged PR [#524](https://github.com/revertinc/revert/pull/524) in [revertinc/revert](https://github.com/revertinc/revert)
+4. 🗣 Commented on [#524](https://github.com/revertinc/revert/pull/524#issuecomment-2270434293) in [revertinc/revert](https://github.com/revertinc/revert)
+5. 🎉 Merged PR [#523](https://github.com/revertinc/revert/pull/523) in [revertinc/revert](https://github.com/revertinc/revert)
+6. 🗣 Commented on [#523](https://github.com/revertinc/revert/pull/523#issuecomment-2270425854) in [revertinc/revert](https://github.com/revertinc/revert)
+7. 🗣 Commented on [#552](https://github.com/revertinc/revert/pull/552#issuecomment-2270422959) in [revertinc/revert](https://github.com/revertinc/revert)
+8. ❌ Closed PR [#552](https://github.com/revertinc/revert/pull/552) in [revertinc/revert](https://github.com/revertinc/revert)
+9. 🗣 Commented on [#493](https://github.com/revertinc/revert/pull/493#issuecomment-2270420921) in [revertinc/revert](https://github.com/revertinc/revert)
+10. ❌ Closed PR [#493](https://github.com/revertinc/revert/pull/493) in [revertinc/revert](https://github.com/revertinc/revert)
 <!--END_SECTION:activity-->
 
   
