@@ -6,16 +6,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7621](https://github.com/twentyhq/twenty/pull/7621#issuecomment-2447988590) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
-2. 🗣 Commented on [#8221](https://github.com/twentyhq/twenty/pull/8221#issuecomment-2447959299) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
-3. 💪 Opened PR [#8221](https://github.com/twentyhq/twenty/pull/8221) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
-4. 🗣 Commented on [#8117](https://github.com/twentyhq/twenty/pull/8117#issuecomment-2439938460) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
-5. 🗣 Commented on [#8117](https://github.com/twentyhq/twenty/pull/8117#issuecomment-2439931530) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
-6. 💪 Opened PR [#8117](https://github.com/twentyhq/twenty/pull/8117) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
-7. 🗣 Commented on [#7621](https://github.com/twentyhq/twenty/pull/7621#issuecomment-2424829167) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
-8. 🗣 Commented on [#7850](https://github.com/twentyhq/twenty/pull/7850#issuecomment-2423888157) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
-9. 💪 Opened PR [#7850](https://github.com/twentyhq/twenty/pull/7850) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
-10. ❗ Opened issue [#7849](https://github.com/twentyhq/twenty/issues/7849) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
+1. ❗ Opened issue [#2628](https://github.com/unkeyed/unkey/issues/2628) in [unkeyed/unkey](https://github.com/unkeyed/unkey)
+2. ❗ Opened issue [#1694](https://github.com/dubinc/dub/issues/1694) in [dubinc/dub](https://github.com/dubinc/dub)
+3. ❗ Opened issue [#6924](https://github.com/OpenBB-finance/OpenBB/issues/6924) in [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+4. ❗ Opened issue [#4197](https://github.com/formbricks/formbricks/issues/4197) in [formbricks/formbricks](https://github.com/formbricks/formbricks)
+5. ❗ Opened issue [#8244](https://github.com/twentyhq/twenty/issues/8244) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
+6. 🗣 Commented on [#7621](https://github.com/twentyhq/twenty/pull/7621#issuecomment-2447988590) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
+7. 🗣 Commented on [#8221](https://github.com/twentyhq/twenty/pull/8221#issuecomment-2447959299) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
+8. 💪 Opened PR [#8221](https://github.com/twentyhq/twenty/pull/8221) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
+9. 🗣 Commented on [#8117](https://github.com/twentyhq/twenty/pull/8117#issuecomment-2439938460) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
+10. 🗣 Commented on [#8117](https://github.com/twentyhq/twenty/pull/8117#issuecomment-2439931530) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
 <!--END_SECTION:activity-->
 
   
