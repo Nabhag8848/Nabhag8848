@@ -6,8 +6,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3644](https://github.com/twentyhq/twenty/issues/3644#issuecomment-2566179567) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
-2. 🗣 Commented on [#70](https://github.com/RocketChat/Apps.Notion/pull/70#issuecomment-2559820313) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
+1. 🗣 Commented on [#81](https://github.com/RocketChat/Apps.Notion/issues/81#issuecomment-2645041791) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
+2. 🗣 Commented on [#81](https://github.com/RocketChat/Apps.Notion/issues/81#issuecomment-2645027195) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
 3. 🗣 Commented on [#70](https://github.com/RocketChat/Apps.Notion/pull/70#issuecomment-2558525102) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
 4. 🗣 Commented on [#70](https://github.com/RocketChat/Apps.Notion/pull/70#issuecomment-2558521861) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
 5. 🗣 Commented on [#3644](https://github.com/twentyhq/twenty/issues/3644#issuecomment-2525470917) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
