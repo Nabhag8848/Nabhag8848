@@ -6,8 +6,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1430](https://github.com/json-schema-org/website/issues/1430#issuecomment-2713670026) in [json-schema-org/website](https://github.com/json-schema-org/website)
-2. 🗣 Commented on [#81](https://github.com/RocketChat/Apps.Notion/issues/81#issuecomment-2645027195) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
+1. 💪 Opened PR [#11300](https://github.com/twentyhq/twenty/pull/11300) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
+2. 🗣 Commented on [#1430](https://github.com/json-schema-org/website/issues/1430#issuecomment-2713670026) in [json-schema-org/website](https://github.com/json-schema-org/website)
 3. 🗣 Commented on [#70](https://github.com/RocketChat/Apps.Notion/pull/70#issuecomment-2558525102) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
 4. 🗣 Commented on [#70](https://github.com/RocketChat/Apps.Notion/pull/70#issuecomment-2558521861) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
 5. 🗣 Commented on [#3644](https://github.com/twentyhq/twenty/issues/3644#issuecomment-2525470917) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
