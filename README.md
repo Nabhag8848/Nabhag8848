@@ -6,9 +6,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11300](https://github.com/twentyhq/twenty/pull/11300) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
-2. 🗣 Commented on [#1430](https://github.com/json-schema-org/website/issues/1430#issuecomment-2713670026) in [json-schema-org/website](https://github.com/json-schema-org/website)
-3. 🗣 Commented on [#70](https://github.com/RocketChat/Apps.Notion/pull/70#issuecomment-2558525102) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
+1. 🗣 Commented on [#10926](https://github.com/twentyhq/twenty/issues/10926#issuecomment-2767693504) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
+2. 💪 Opened PR [#11300](https://github.com/twentyhq/twenty/pull/11300) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
+3. 🗣 Commented on [#1430](https://github.com/json-schema-org/website/issues/1430#issuecomment-2713670026) in [json-schema-org/website](https://github.com/json-schema-org/website)
 4. 🗣 Commented on [#70](https://github.com/RocketChat/Apps.Notion/pull/70#issuecomment-2558521861) in [RocketChat/Apps.Notion](https://github.com/RocketChat/Apps.Notion)
 5. 🗣 Commented on [#3644](https://github.com/twentyhq/twenty/issues/3644#issuecomment-2525470917) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
 6. 🗣 Commented on [#15687](https://github.com/raycast/extensions/pull/15687#issuecomment-2517443786) in [raycast/extensions](https://github.com/raycast/extensions)
