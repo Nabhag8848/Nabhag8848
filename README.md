@@ -296,23 +296,13 @@ Developer tool for testing WebSocket APIs with support for compressed data forma
 
 ---
 
-## GitHub Stats
+## GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabhag8848&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabhag8848&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabhag8848&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Pair_Extraordinaire-x3-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire" />
+  <img src="https://img.shields.io/badge/Pull_Shark-x3-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/YOLO-1-F97316?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Quickdraw-1-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
 </p>
 
 ---
-
-
-<p align="center">
-  <i>Working at my own pace</i>
-</p>
