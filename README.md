@@ -90,16 +90,30 @@ A Chrome extension + web dashboard that integrates with Myntra, letting shoppers
 
 ---
 
-#### [QuickBooks Integration](https://github.com/nabhag8848/quickbooks-integration)
-> Syncing service for QuickBooks Online with OAuth and background job processing
+#### [Financial Integration Service](https://github.com/nabhag8848/quickbooks-integration)
+> Extensible financial data sync service with OAuth and background job processing
 
-NestJS service with OAuth 2.0, automatic token refresh, initial backfill + incremental sync every 5 minutes, and BullMQ-powered job queues.
+NestJS service for syncing third-party financial data using OAuth 2.0, automatic token refresh, initial backfill + incremental sync, and queue-based background processing via a unified provider adapter contract.
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-E34F26?style=flat-square&logo=bull&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-E34F26?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+#### [Carrier Integration Service](https://github.com/nabhag8848/ups-integration-service)
+> Unified carrier rate-quote service through carrier-specific adapters
+
+NestJS integration service for fetching shipping rate quotes via a unified API contract, with carrier-specific adapter modules (currently UPS), OAuth token lifecycle management, and extensible registry-based architecture for adding new carriers.
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
