@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nabhag</h1>
-<h3 align="center">Full Stack Engineer | Integration Ninja</h3>
+<h3 align="center">AI Engineer</h3>
 
 <p align="center">
   <a href="https://nabhag.dev"><img src="https://img.shields.io/badge/Portfolio-nabhag.dev-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
@@ -11,14 +11,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nabhag8848&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
-
----
-
-## About Me
-
-I'm a Full Stack Engineer from India who thrives on building integrations and developer tools. From Google Summer of Code to Raycast extensions, Figma plugins, and MCP servers, I enjoy connecting platforms and creating seamless developer experiences. Currently building [LYO](https://lyo.fashion) - a virtual fitting room experience.
-
----
 
 ## Tech Stack & Tools
 
