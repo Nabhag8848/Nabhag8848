@@ -65,7 +65,7 @@
 
 
 ### 2026
-#### [pg-agent](https://github.com/nabhag/pg-agent)
+#### [pg-agent](https://github.com/nabhag8848/pg-agent)
 > Ask your PostgreSQL database questions in plain English — directly from the terminal.
 
 A terminal-based AI agent that classifies your prompt, pulls the live PostgreSQL schema, generates SQL, executes it, and explains results in natural language. It automatically guards read/write intent, runs counts for large result sets, and limits output for clarity.
