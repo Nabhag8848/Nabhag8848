@@ -65,6 +65,15 @@
 
 
 ### 2026
+#### [pg-agent](https://github.com/nabhag/pg-agent)
+> Ask your PostgreSQL database questions in plain English — directly from the terminal.
+
+A terminal-based AI agent that classifies your prompt, pulls the live PostgreSQL schema, generates SQL, executes it, and explains results in natural language. It automatically guards read/write intent, runs counts for large result sets, and limits output for clarity.
+
+![Agent SDK](https://img.shields.io/badge/Agent_SDK-412991?style=flat-square&logo=openai&logoColor=white)
+![React Ink](https://img.shields.io/badge/React%20Ink-61DAFB?style=flat-square&logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 #### [LYO - Virtual Fitting Room](https://github.com/nabhag8848/lyo-architecture)
 > Virtual fitting room right in your browser - Try on clothes before you buy
