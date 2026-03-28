@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nabhag</h1>
-<h3 align="center">AI Engineer</h3>
+<h3 align="center">Applied AI Engineer</h3>
 
 <p align="center">
   <a href="https://nabhag.dev"><img src="https://img.shields.io/badge/Portfolio-nabhag.dev-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
