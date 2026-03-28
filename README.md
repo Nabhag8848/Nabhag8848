@@ -71,7 +71,7 @@ A Go TUI (Bubble Tea) that connects to your database with read-only tooling, use
 ![langchaingo](https://img.shields.io/badge/langchaingo-agents-7C3AED?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-#### [LYO - Virtual Fitting Room](https://github.com/nabhag8848/lyo-architecture)
+#### [LYO - Virtual Fitting Room](https://github.com/nabhag8848/lyo)
 > Virtual fitting room right in your browser - Try on clothes before you buy
 
 A Chrome extension + web dashboard that integrates with Myntra, letting shoppers visualize garments on their body using virtual try on model.
@@ -84,6 +84,7 @@ A Chrome extension + web dashboard that integrates with Myntra, letting shoppers
 ![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
 **Live:** [lyo.fashion](https://lyo.fashion)
+**Architecture:** [https://github.com/nabhag8848/lyo-architecture](https://github.com/nabhag8848/lyo-architecture)
 
 ---
 
