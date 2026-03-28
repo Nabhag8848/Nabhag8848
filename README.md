@@ -33,7 +33,14 @@
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-E34F26?style=for-the-badge&logo=redis&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white)
-![Agent SDK](https://img.shields.io/badge/Agent_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Agents SDK](https://img.shields.io/badge/Agent_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+## Infrastructure
+
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
+![Amazon SNS](https://img.shields.io/badge/Amazon_SNS-FF9900?style=for-the-badge&logo=amazonsns&logoColor=white)
+![Amazon Lightsail](https://img.shields.io/badge/Amazon_Lightsail-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
 ### Databases & Caching
@@ -50,10 +57,7 @@
 
 ---
 
-## Project Timeline
-
-<img width="5094" height="2866" alt="image" src="https://github.com/user-attachments/assets/7b4a9b0c-e5c3-4c95-9e68-7df9900d5272" />
-
+## Side Projects 
 
 ### 2026
 #### [ask-postgres](https://github.com/nabhag8848/ask-postgres)
@@ -250,66 +254,5 @@ Backend service integrating AI capabilities into Rocket.Chat with image generati
 ![Rocket.Chat](https://img.shields.io/badge/Rocket.Chat-F5455C?style=flat-square&logo=rocketdotchat&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_EB-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-
----
-
-#### [TrimTime](https://github.com/nabhag8848/TrimTime)
-> Barber application for advance seat registration to eliminate wait times
-
-Full-stack mobile app built with Flutter + Express + MongoDB, featuring real-time slot availability, appointment notifications, and customer reviews.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
----
-
-#### [Snappy Backend](https://github.com/nabhag8848/snappy-backend)
-> AI-powered Figma plugin for generating ad assets
-
-Backend for a Figma plugin that generates images from text prompts with customizable fields, reference image support, and Lexica integration.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma_Plugin-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-### 2022
-
-#### [WebSocket Tester](https://github.com/nabhag8848/webSocket-Tester)
-> Gzip-compatible WebSocket testing tool
-
-Developer tool for testing WebSocket APIs with support for compressed data formats (Gzip, Blob), built as an Nx monorepo with Angular + NestJS.
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white)
-
----
-
-### 2021
-
-#### [Front-end Dev Learning Path](https://github.com/nabhag8848/Front-end-Dev-Learning-Path)
-> Frontend development learning resources and projects
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
----
-
-## GitHub Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pair_Extraordinaire-x3-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire" />
-  <img src="https://img.shields.io/badge/Pull_Shark-x3-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
-  <img src="https://img.shields.io/badge/YOLO-1-F97316?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
-  <img src="https://img.shields.io/badge/Quickdraw-1-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
-</p>
 
 ---
