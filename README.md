@@ -1,13 +1,4 @@
-<p align="center">
-  <a href="https://nabhag.dev"><img src="https://img.shields.io/badge/Portfolio-nabhag.dev-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://twitter.com/NabhagMotivaras"><img src="https://img.shields.io/badge/Twitter-@NabhagMotivaras-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/nabhagmotivaras"><img src="https://img.shields.io/badge/LinkedIn-nabhagmotivaras-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/NabhagMotivaras"><img src="https://img.shields.io/badge/LeetCode-NabhagMotivaras-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nabhag8848&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-</p>
+A few things I've built across AI, infra, and developer tooling.
 
 ## Side Projects
 
@@ -56,3 +47,14 @@ A Go TUI (Bubble Tea) that connects to your database with read-only tooling, use
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
+
+<p align="center">
+  <a href="https://nabhag.dev"><img src="https://img.shields.io/badge/Portfolio-nabhag.dev-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://twitter.com/NabhagMotivaras"><img src="https://img.shields.io/badge/Twitter-@NabhagMotivaras-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/nabhagmotivaras"><img src="https://img.shields.io/badge/LinkedIn-nabhagmotivaras-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/NabhagMotivaras"><img src="https://img.shields.io/badge/LeetCode-NabhagMotivaras-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nabhag8848&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
