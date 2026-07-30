@@ -13,7 +13,7 @@ An orchestration engine design that separates draft and published definitions, u
 ![AWS SQS](https://img.shields.io/badge/AWS_SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
 ![AWS ECS on Fargate](https://img.shields.io/badge/AWS_ECS-Fargate-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Debezium](https://img.shields.io/badge/Debezium-161616?style=flat-square)
+![Debezium](https://img.shields.io/badge/Debezium-52A8A6?style=flat-square)
 
 
 #### [LYO - Virtual Fitting Room](https://github.com/nabhag8848/lyo)
@@ -27,7 +27,7 @@ A Chrome extension + web dashboard that integrates with Myntra, letting shoppers
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![AWS LightSail](https://img.shields.io/badge/AWS_LightSail-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS LightSail](https://img.shields.io/badge/AWS_LightSail-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 ![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
