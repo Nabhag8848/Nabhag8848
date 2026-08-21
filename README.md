@@ -15,7 +15,6 @@ An orchestration engine design that separates draft and published definitions, u
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![Debezium](https://img.shields.io/badge/Debezium-52A8A6?style=flat-square)
 
-
 #### [LYO - Virtual Fitting Room](https://github.com/nabhag8848/lyo)
 
 > Virtual fitting room right in your browser - Try on clothes before you buy
@@ -45,6 +44,12 @@ A Go TUI (Bubble Tea) that connects to your database with read-only tooling, use
 ![Bubble Tea](https://img.shields.io/badge/Bubble_Tea-TUI-FF67C7?style=flat-square)
 ![langchaingo](https://img.shields.io/badge/langchaingo-agents-7C3AED?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+#### [LeetCode](https://leetcode.com/u/NabhagMotivaras/)
+
+> Problems I've solved in Go — [nabhag8848/leetcode](https://github.com/Nabhag8848/leetcode)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/NabhagMotivaras?ext=heatmap)](https://leetcode.com/u/NabhagMotivaras/)
 
 ---
 
