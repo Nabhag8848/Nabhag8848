@@ -45,9 +45,11 @@ A Go TUI (Bubble Tea) that connects to your database with read-only tooling, use
 ![langchaingo](https://img.shields.io/badge/langchaingo-agents-7C3AED?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-#### [LeetCode](https://leetcode.com/u/NabhagMotivaras/)
+---
 
-> Problems I've solved in Go — [nabhag8848/leetcode](https://github.com/Nabhag8848/leetcode)
+## LeetCode
+
+Problems I've solved in Go — [nabhag8848/leetcode](https://github.com/Nabhag8848/leetcode)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/NabhagMotivaras?ext=heatmap)](https://leetcode.com/u/NabhagMotivaras/)
 
