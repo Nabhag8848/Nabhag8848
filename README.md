@@ -45,6 +45,19 @@ A Go TUI (Bubble Tea) that connects to your database with read-only tooling, use
 ![langchaingo](https://img.shields.io/badge/langchaingo-agents-7C3AED?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+#### [Learn Go Concurrency](https://github.com/Nabhag8848/go-concurrency)
+
+> An interactive guide to understanding how concurrent work moves through a machine—then applying that mental model in Go.
+
+A visual, first-principles course with interactive lessons and runnable Go code in the browser.
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Website:** [concurrency.nabhag.dev](https://concurrency.nabhag.dev/)
+
 ---
 
 ## LeetCode
