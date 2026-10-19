@@ -88,7 +88,3 @@ Problems I've solved in Go — [nabhag8848/leetcode](https://github.com/Nabhag88
   <a href="https://linkedin.com/in/nabhagmotivaras"><img src="https://img.shields.io/badge/LinkedIn-nabhagmotivaras-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/NabhagMotivaras"><img src="https://img.shields.io/badge/LeetCode-NabhagMotivaras-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nabhag8848&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-</p>
