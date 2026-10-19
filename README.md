@@ -2,6 +2,20 @@ A few things I've built across AI, infra, and developer tooling.
 
 ## Side Projects
 
+#### [Sandbox Kit](https://github.com/sandbox-kit/kit)
+
+> One pluggable SDK for cloud sandbox providers.
+
+A core client plus provider packages (Daytona, Modal) built from shared Buf/protobuf contracts and Protovalidate — same create intent, native SDKs underneath.
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Protobuf](https://img.shields.io/badge/Protobuf-2CA48F?style=flat-square&logo=googleprotocolbuffers&logoColor=white)
+![Buf](https://img.shields.io/badge/Buf-000000?style=flat-square&logo=buf&logoColor=white)
+![Protovalidate](https://img.shields.io/badge/Protovalidate-0B57D0?style=flat-square)
+![Daytona](https://img.shields.io/badge/Daytona-provider-0A0A0A?style=flat-square)
+![Modal](https://img.shields.io/badge/Modal-provider-7C3AED?style=flat-square)
+
 #### [Orchex](https://github.com/nabhag8848/orchex)
 
 > Durable workflow execution engine for versioned DAGs with reliable retry and resume semantics.
