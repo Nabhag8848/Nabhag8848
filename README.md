@@ -29,6 +29,18 @@ An orchestration engine design that separates draft and published definitions, u
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![Debezium](https://img.shields.io/badge/Debezium-52A8A6?style=flat-square)
 
+#### [Sandbox Directory](https://github.com/sandbox-kit/directory)
+
+> Discover agent sandboxes — searchable providers for code execution, browsers, VMs, and self-hosted runtimes.
+
+The open-source app and curated data behind [sandbox.directory](https://sandbox.directory): search by product or keyword and jump straight to each vendor, with inventory synced from public indexes and community submissions.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Website:** [sandbox.directory](https://sandbox.directory)
+
 #### [LYO - Virtual Fitting Room](https://github.com/nabhag8848/lyo)
 
 > Virtual fitting room right in your browser - Try on clothes before you buy
