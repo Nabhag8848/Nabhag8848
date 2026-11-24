@@ -33,11 +33,14 @@ An orchestration engine design that separates draft and published definitions, u
 
 > Discover agent sandboxes — searchable providers for code execution, browsers, VMs, and self-hosted runtimes.
 
-The open-source app and curated data behind [sandbox.directory](https://sandbox.directory): search by product or keyword and jump straight to each vendor, with inventory synced from public indexes and community submissions.
+The open-source app and curated data behind [sandbox.directory](https://sandbox.directory): search by product or keyword and jump straight to each vendor. A Firecrawl-backed sync pipeline (search, scrape, crawl, structured extract) refreshes provider inventory on a schedule; Zod validates every row before it ships.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Firecrawl](https://img.shields.io/badge/Firecrawl-FA5623?style=flat-square&logo=firecrawl&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Website:** [sandbox.directory](https://sandbox.directory)
 
